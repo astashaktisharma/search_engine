@@ -55,9 +55,8 @@ class SearchEngine:
 
 
 if __name__ == "__main__":
-    # Example usage
-    base_dir = "./test_dir"
-    base_dir = "./complex_test_dir"  # Replace with your test directory path
+    #base_dir = "./test_dir"
+    base_dir = "./complex_test_dir"
 
     # Initialize search engine
     engine = SearchEngine()
